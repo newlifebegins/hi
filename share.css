@@ -19,5 +19,5 @@ input:-ms-input-placeholder { color:#d1b97f; }
 .share_box ul { margin-top: .4rem; }
 .share_box ul li { float: left; width: 32%; padding: .6rem .3rem; box-sizing: border-box; background-color: #fff; border-radius: .1rem; border: .025rem solid #c98e00; margin: .1rem .1rem .1rem .1rem; }
 .share_box ul li h2 { font-size: .6rem; color: #989181; text-align: center; }
-.share_box ul li img { max-height: 84px; margin-top: .6rem; }
+.share_box ul li img { max-height: 2.47rem; margin-top: .6rem; }
 
