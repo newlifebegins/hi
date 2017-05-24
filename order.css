@@ -9,6 +9,11 @@ input:-ms-input-placeholder { color:#d1b97f; }
 .login_banner img { width: 100%; display: block; margin: 0 auto; }
 .login_banner img.logo { width: 5.65rem; display: block; margin: 0 0 0 1.0rem; }
 .login_banner img.women { width: 6.7rem; display: block; margin: 0; }
+.question { background-color: #fff; width: 100%; padding: 0 .9rem; box-sizing: border-box; }
+.question h1 { font-size: 1.0rem; color: #5c5d5d; font-weight: bold; text-align: center; }
+.question h1 span { color: #eb6120; }
+.question ul li { float: left; width: 25%; }
+.question ul li img { width: 100%; }
 .join { padding: 0 1.7rem; background: url(images/line_bg.jpg) repeat-x; }
 .join p { font-size: .7rem; color: #863c0b; line-height: 1.2rem; padding: .9rem 0; }
 .join input[type="button"] { width: 100%; height: 1.8rem; line-height: 1.8rem; background-color: #f96c0d; text-align: center; color: #fff; font-size: .9rem; cursor: pointer; }
