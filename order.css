@@ -8,15 +8,17 @@ img { display: block; }
 .header a { color: #fff; }
 .login_banner { background: #97cbd4; padding: .75rem 0 0; position: relative; }
 .login_banner img { width: 100%; display: block; margin: 0 auto; }
-.login_banner img.logo { width: 5.65rem; display: block; margin: 0 0 0 1.0rem; }
-.login_banner img.women { width: 6.7rem; display: block; margin: 0; }
-.question { background-color: #fff; width: 100%; padding: 0 .9rem; box-sizing: border-box; }
+.login_banner img.order_banner { margin: 0 auto .6rem; width: 90%; display: block; }
+.login_banner img.logo { width: 5.65rem; display: block; margin: 0 0 .6rem 1.0rem; }
+.login_banner img.women { width: 6.7rem; display: block; margin: 0; position: absolute; bottom: -.7rem; right: .7rem; }
+.question { background-color: #fff; width: 100%; padding: 1.5rem .9rem .6rem; box-sizing: border-box; }
 .question h1 { font-size: 1.0rem; color: #5c5d5d; font-weight: bold; text-align: center; }
 .question h1 span { color: #eb6120; }
+.question ul { margin-top: .5rem; }
 .question ul li { float: left; width: 24%; margin: 0 0.5%; }
 .question ul li img { width: 100%; }
-.question ul li p { text-align: center; font-size: .5rem; color: #5c5d5d; }
-.ad { margin-top: .6rem; }
+.question ul li p { text-align: center; font-size: .5rem; color: #5c5d5d; font-weight: 600; margin-top: .12rem; }
+/*.ad { margin-top: .6rem; }*/
 .inset { margin-top: .175rem; }
 .inset li { float: left; width: 32%; margin-left: 2%; }
 .inset li:first-child { margin-left: 0; }
