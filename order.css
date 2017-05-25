@@ -16,12 +16,17 @@ img { display: block; }
 .question ul li { float: left; width: 24%; margin: 0 0.5%; }
 .question ul li img { width: 100%; }
 .question ul li p { text-align: center; font-size: .5rem; color: #5c5d5d; }
+.ad { margin-top: .6rem; }
+.inset { margin-top: .175rem; }
 .inset li { float: left; width: 32%; margin-left: 2%; }
 .inset li:first-child { margin-left: 0; }
 .inset li .desc { width: 100%; background: #fff; padding: .05rem; box-sizing: border-box; position: relative; top: -0.35rem; }
 .inset li .desc dl { width: 100%; }
 .inset li dt { float: left; width: .7rem; height: .7rem; text-align: center; line-height: .7rem; background: #eb611e; font-size: .6rem; color: #fff; }
 .inset li dd { width: 87%; height: .7rem; line-height: .7rem; background: #5c5d5d; font-size: .6rem; color: #fff; margin-left: .8rem; text-indent: .1rem; }
+.map { position: relative; }
+.map .map-more { width: 4.4rem; height: .9rem; text-align: center; line-height: .9rem; border-radius: .9rem; background: #7d7d7d; font-size: .6rem; color: #fff; position: absolute; right: .6rem; top: .6rem; }
+.map .map-more a { display: block; color: #fff; }
 
 
 .join { padding: 0 1.7rem; background: url(images/line_bg.jpg) repeat-x; }
