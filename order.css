@@ -21,7 +21,7 @@ img { display: block; }
 .inset li .desc { width: 80%; background: #fff; padding: .05rem; position: relative; top: -0.35rem; }
 .inset li .desc dl { width: 100%; }
 .inset li dt { float: left; width: .7rem; height: .7rem; text-align: center; line-height: .7rem; background: #eb611e; font-size: .6rem; color: #fff; }
-.inset li dd { width: 100%; height: .7rem; line-height: .7rem; background: #5c5d5d; font-size: .6rem; color: #fff; margin-left: .8rem; text-indent: .1rem; }
+.inset li dd { width: 105%; height: .7rem; line-height: .7rem; background: #5c5d5d; font-size: .6rem; color: #fff; margin-left: .8rem; text-indent: .1rem; }
 
 
 .join { padding: 0 1.7rem; background: url(images/line_bg.jpg) repeat-x; }
