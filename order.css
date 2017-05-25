@@ -34,7 +34,7 @@ img { display: block; }
 .phone-box dl dt { float: left; width: 20%; height: 100%; background: #dcdcdc; text-align: center; font-size: .6rem; color: #727070; }
 .phone-box dl dd { margin-left: 20%; width: 80%; height: 100%; background: transparent; }
 .phone-box dl dd input[type="text"] { width: 100%; height: 100%; border: none; outline: none; text-indent: .1rem; }
-.phone-box form input[type="button"] { display: block; width: 10rem; height: 1.4rem; text-align: center; line-height: 1.4rem; border-radius: 1.4rem; background: #eb6120; font-size: 1.0rem; font-weight: 600; color: #fff; border: none; outline: none; margin: .9rem auto 0; }
+.phone-box form input[type="button"] { display: block; width: 10rem; height: 1.4rem; text-align: center; line-height: 1.4rem; border-radius: 1.4rem; background: #eb6120; font-size: 1.0rem; color: #fff; border: none; outline: none; margin: .9rem auto 0; }
 
 
 
